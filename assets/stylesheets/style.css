@@ -8,9 +8,9 @@ body {
 
 .main-heading,
 footer {
-  background: #a52a2a;
-  padding: 20px 10px;
-  color: white;
+    background: #a52a2a;
+    padding: 20px 10px;
+    color: #221111;
 }
 
 .main-heading h1 {
@@ -30,4 +30,6 @@ article {
 .main-img {
   float: left;
   padding-right: 10px;
+}
+.main-heading h1 {
 }
